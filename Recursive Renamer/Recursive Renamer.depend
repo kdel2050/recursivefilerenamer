@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1705336523 source:c:\coding\cpp\recrenamer\recursive renamer\main.cpp
+	<Windows.h>
+	<iostream>
+	<vector>
+	<string>
+	<cstdio>
+	<map>
+	<random>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+
